@@ -1,4 +1,4 @@
-#Data Description:
+# Data Description:
 The patient data was taken from the Kaggle platform to analyze, model, and make predictions. The data contains patient health information like age, gender, marital status, smoking habits, and health history. The data consists of 5110 observations and 12 attributes. The 12 attributes and their description is listed below for reference. The partial data is provided in Fig. 1 to illustrate the values used for this project. 
 
 * id: it is a unique identifier of a patient
